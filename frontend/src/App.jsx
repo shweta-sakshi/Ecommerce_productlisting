@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "./component/Login.jsx";
 import Signup from "./component/Signup.jsx";
-import LandingPage from "./component/landingPage.jsx";
+import LandingPage from "./component/LandingPage.jsx";
 import Homepage from "./component/Homepage.jsx";
 import Shoppingcart from "./component/Shoppingcart.jsx";
 import Infopage from "./component/Infopage.jsx";
